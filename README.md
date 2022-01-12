@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luca</h1>
 <h3 align="center">A Computer Science Student from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lhumke&label=Profile%20views&color=0e75b6&style=flat" alt="lhumke" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lhumke&label=Profile%20views&color=0e75b6&style=flat" alt="lhumke" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhumke&show_icons=true&locale=en&layout=compact" alt="lhumke" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lhumke&show_icons=true&locale=en&layout=compact" alt="lhumke" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lhumke&show_icons=true&locale=en" alt="lhumke" /></p>
 
@@ -23,8 +23,8 @@
 - 📫 How to reach me **kontakt@it-humke.de**
 
 <h3 align="left">Connect with me:</h3>
-  - On Discord ***Humke#6484***
 <p align="left">
+  - On Discord ***Humke#6484***
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
