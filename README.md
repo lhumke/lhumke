@@ -23,6 +23,7 @@
 - 📫 How to reach me **kontakt@it-humke.de**
 
 <h3 align="left">Connect with me:</h3>
+  - On Discord ***Humke#6484***
 <p align="left">
 </p>
 
